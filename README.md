@@ -1,6 +1,6 @@
 # software-engineering-learning-pathway
 
-Learning resource links wiki for Software Engineers
+Learning resource links [wiki](https://github.com/ONSdigital/software-engineering-learning-pathway/wiki) for Software Engineers
 
 ## What is this for?
 
@@ -12,7 +12,7 @@ But how do you get from not knowing something, to knowing? Your learning pathway
 
 ## How to contribute
 
-This repo holds a GitHub wiki, which has some limitations, such as a single level structure, but is fairly low barrier to entry. We want you to contribute your links and advice on the page associated to the DDaT role profile skill area it is appropriate for (a tutorial, video or activity might be a good fit for multiple areas). We're going for a minimalist approach with this- entries subcategorised as *Introductory* and *Beyond*, and no more than a line or two of explanation.
+This repo holds a [GitHub wiki](https://github.com/ONSdigital/software-engineering-learning-pathway/wiki), which has some limitations, such as a single level structure, but is fairly low barrier to entry. We want you to contribute your links and advice on the page associated to the DDaT role profile skill area it is appropriate for (a tutorial, video or activity might be a good fit for multiple areas). We're going for a minimalist approach with this- entries subcategorised as *Introductory* and *Beyond*, and no more than a line or two of explanation.
 
 Wiki pages can be edited in the page (perfect for those of you on-network) or the traditional git way, using an editor on your desktop of your choosing.
 
